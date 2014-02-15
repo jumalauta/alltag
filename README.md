@@ -1,5 +1,7 @@
 # alltag
 
+(Download Windows/OS X binaries.)[ftp://ftp.untergrund.net/users/jml/releases/jumabruary_2014/java/jml-allt.zip]
+
 ## Info
 
 Small prod made for Jumabruary 2014, made in Processing. The shader is copied from some example included with Processing.
