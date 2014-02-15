@@ -1,6 +1,6 @@
 # alltag
 
-(Download Windows/OS X binaries.)[ftp://ftp.untergrund.net/users/jml/releases/jumabruary_2014/java/jml-allt.zip]
+[Download Windows/OS X binaries.](ftp://ftp.untergrund.net/users/jml/releases/jumabruary_2014/java/jml-allt.zip)
 
 ## Info
 
